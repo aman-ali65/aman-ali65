@@ -1,9 +1,9 @@
 <!-- Header Banner with Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customText=Aman%20Ali&section=header&repeat=true&height=250&animation=fadeIn" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dd2476,1:ff013c,2:ff013c&customText=Muhammad%20Aman%20Ali&section=header&repeat=true&height=280&animation=fadeIn&fontSize=50&fontColor=ffffff&fontBold=true" alt="Header Banner" />
 </div>
 
-# <div align="center"><span id="typing">Aman Ali</span></div>
+# <div align="center"><span class="typing-effect">Muhammad Aman Ali</span></div>
 
 <div align="center">
   <h3>🚀 Passionate about AI, automation, and innovation</h3>
@@ -14,10 +14,10 @@
     <img src="https://img.shields.io/github/followers/aman-ali65?label=Followers&style=social" alt="followers" />
   </p>
 
-  <!-- Trophy Section with Animation -->
+  <!-- Trophy Section with Better Theme -->
   <p>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=aman-ali65&theme=radical&row=1&column=7&margin-w=15&no-bg=true" alt="trophy" />
+      <img src="https://github-profile-trophy.vercel.app/?username=aman-ali65&theme=onedark&row=1&column=7&margin-w=15&no-bg=false" alt="trophy" />
     </a>
   </p>
 </div>
@@ -47,12 +47,22 @@
 ## 🔗 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/aman-ali65" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="50" height="50" style="margin: 10px;" />
-  </a>
-  <a href="https://kaggle.com/@amanlaptop2" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" width="50" height="50" style="margin: 10px;" />
-  </a>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://linkedin.com/in/aman-ali65" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="60" height="60" style="margin: 15px;" />
+        </a>
+        <br/><strong>LinkedIn</strong>
+      </td>
+      <td align="center">
+        <a href="https://kaggle.com/@amanlaptop2" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" width="60" height="60" style="margin: 15px;" />
+        </a>
+        <br/><strong>Kaggle</strong>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -183,9 +193,10 @@
 <!-- Animated Footer -->
 <div align="center">
   <p>
-    <img src="https://komarev.com/ghpvc/?username=aman-ali65&icon=0&color=0" alt="visitors" />
+    <img src="https://komarev.com/ghpvc/?username=aman-ali65&icon=github&color=0e75b6&label=Visitors" alt="visitors" />
   </p>
-  <p><em>Thanks for visiting! 🚀</em></p>
+  <p><em>Thanks for visiting! 🚀 Happy Coding!</em></p>
+  <img src="https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif" width="100%" alt="footer divider" />
 </div>
 
 <!-- CSS Animations -->
@@ -204,15 +215,30 @@
   0% {text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #e60073;}
   100% {text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073;}
 }
-#typing {
+@keyframes typing {
+  0% {width: 0;}
+  100% {width: 100%;}
+}
+@keyframes blink {
+  50% {border-color: transparent;}
+}
+.typing-effect {
   font-size: 3em;
   font-weight: bold;
-  background: linear-gradient(90deg, #ff6b6b, #4ecdc4, #45b7d1, #96ceb4, #ffeaa7);
+  background: linear-gradient(90deg, #ff6b6b, #4ecdc4, #45b7d1, #96ceb4, #ffeaa7, #ff6b6b);
+  background-size: 300% 300%;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  animation: glow 2s ease-in-out infinite alternate;
+  animation: gradient-shift 3s ease infinite, glow 2s ease-in-out infinite alternate;
+  display: inline-block;
+  border-right: 3px solid #ff6b6b;
+  white-space: nowrap;
+  overflow: hidden;
+  animation: typing 3s steps(30) infinite alternate, blink 0.7s step-end infinite alternate, gradient-shift 3s ease infinite;
+}
+@keyframes gradient-shift {
+  0% {background-position: 0% 50%;}
+  50% {background-position: 100% 50%;}
+  100% {background-position: 0% 50%;}
 }
 </style>
-
-<!-- Note: Full typing effect requires JavaScript which GitHub doesn't support in README. 
-     The gradient + glow animation creates a similar visual impact! -->
