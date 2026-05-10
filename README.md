@@ -13,9 +13,12 @@
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman-ali65&label=Profile%20views&color=0e75b6&style=flat" alt="aman-ali65" /> </p>
+
 ---
 
-<h3 align="center"> 🏆 Trophies & Achievements </h3>
+<h3 align="left"> 🏆 Trophies & Achievements </h3>
+<br>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aman-ali65&theme=flat&no-frame=true&row=1&column=7" alt="trophies" />
 </p>
