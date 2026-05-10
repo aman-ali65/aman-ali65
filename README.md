@@ -132,22 +132,37 @@
 
 ---
 
-<h3 align="left"> 📊 GitHub Stats </h3>
 
-![](https://github-readme-stats.shion.dev/api?username=aman-ali65&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=aman-ali65&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=aman-ali65&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aman-ali65&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
+<!-- ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=aman-ali65&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
 
 <h3 align="left"> 🔧 Tools I Use </h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,anaconda,git,github,windows" alt="tools" />
 </p>
+
+---
+
+
+<h3 align="left"> 📊 GitHub Stats </h3>
+
+<table border="0" cellpadding="0" cellspacing="0" align="center">
+  <tr>
+    <td width="56%">
+      <img src="https://github-readme-stats.shion.dev/api?username=aman-ali65&theme=aura&hide_border=false&include_all_commits=true&count_private=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=aman-ali65&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com/?user=aman-ali65&theme=aura&hide_border=false" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -199,7 +214,7 @@
 <br>
 
 <div align="center">
-  <p><em>Thanks for visiting! 🚀 Happy Coding!</em></p>
+  <p><em>Thanks for visiting! <b>🚀 Happy Coding!</b></em></p>
   <img src="https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif" width="300px" height="200px" alt="footer divider" />
 </div>
 
