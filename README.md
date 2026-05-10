@@ -1,11 +1,14 @@
 <!-- Header Banner with Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dd2476,1:ff013c,2:ff013c&customText=Muhammad%20Aman%20Ali&section=header&repeat=true&height=280&animation=fadeIn&fontSize=50&fontColor=ffffff&fontBold=true" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dd2476,1:ff013c,2:ff013c&customText=Muhammad%20Aman%20Ali&section=header&repeat=true&height=300&animation=fadeIn&fontSize=55&fontColor=ffffff&fontBold=true" alt="Header Banner" />
 </div>
 
-# <div align="center"><span class="typing-effect">Muhammad Aman Ali</span></div>
-
+<!-- Typing Effect Name -->
 <div align="center">
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=50&duration=3000&pause=1000&color=DD2476&center=true&vCenter=true&width=800&height=80&lines=Hey+%F0%9F%91%8B+I'm+Muhammad+Aman+Ali;AI+%26+Automation+Enthusiast;Python+%7C+React+%7C+NLP;Building+the+future+with+code" alt="Typing Effect" />
+  </h1>
+  
   <h3>🚀 Passionate about AI, automation, and innovation</h3>
   
   <!-- Animated Profile Views Counter -->
@@ -17,7 +20,7 @@
   <!-- Trophy Section with Better Theme -->
   <p>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=aman-ali65&theme=onedark&row=1&column=7&margin-w=15&no-bg=false" alt="trophy" />
+      <img src="https://github-profile-trophy.vercel.app/?username=aman-ali65&theme=dracula&row=1&column=7&margin-w=15&no-bg=true" alt="trophy" />
     </a>
   </p>
 </div>
@@ -160,6 +163,53 @@
 
 ---
 
+## 💻 Favorite Repositories
+
+<div align="center">
+  <table>
+    <tr>
+      <th>Repository</th>
+      <th>Description</th>
+      <th>Stars</th>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/aman-ali65">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" />
+          <br/>
+          <strong>AI Chatbot Project</strong>
+        </a>
+      </td>
+      <td>Advanced NLP-based chatbot with automation features</td>
+      <td align="center">⭐ Coming Soon</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/aman-ali65">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" alt="React" />
+          <br/>
+          <strong>Portfolio Website</strong>
+        </a>
+      </td>
+      <td>Modern portfolio built with React and Next.js</td>
+      <td align="center">⭐ Coming Soon</td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/aman-ali65">
+          <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" alt="SQL" />
+          <br/>
+          <strong>Automation Scripts</strong>
+        </a>
+      </td>
+      <td>Web scraping and data automation tools</td>
+      <td align="center">⭐ Coming Soon</td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
@@ -196,49 +246,4 @@
     <img src="https://komarev.com/ghpvc/?username=aman-ali65&icon=github&color=0e75b6&label=Visitors" alt="visitors" />
   </p>
   <p><em>Thanks for visiting! 🚀 Happy Coding!</em></p>
-  <img src="https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif" width="100%" alt="footer divider" />
 </div>
-
-<!-- CSS Animations -->
-<style>
-@keyframes bounce {
-  0%, 20%, 50%, 80%, 100% {transform: translateY(0);}
-  40% {transform: translateY(-10px);}
-  60% {transform: translateY(-5px);}
-}
-@keyframes pulse {
-  0% {transform: scale(1);}
-  50% {transform: scale(1.1);}
-  100% {transform: scale(1);}
-}
-@keyframes glow {
-  0% {text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #e60073;}
-  100% {text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073;}
-}
-@keyframes typing {
-  0% {width: 0;}
-  100% {width: 100%;}
-}
-@keyframes blink {
-  50% {border-color: transparent;}
-}
-.typing-effect {
-  font-size: 3em;
-  font-weight: bold;
-  background: linear-gradient(90deg, #ff6b6b, #4ecdc4, #45b7d1, #96ceb4, #ffeaa7, #ff6b6b);
-  background-size: 300% 300%;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  animation: gradient-shift 3s ease infinite, glow 2s ease-in-out infinite alternate;
-  display: inline-block;
-  border-right: 3px solid #ff6b6b;
-  white-space: nowrap;
-  overflow: hidden;
-  animation: typing 3s steps(30) infinite alternate, blink 0.7s step-end infinite alternate, gradient-shift 3s ease infinite;
-}
-@keyframes gradient-shift {
-  0% {background-position: 0% 50%;}
-  50% {background-position: 100% 50%;}
-  100% {background-position: 0% 50%;}
-}
-</style>
