@@ -27,10 +27,7 @@
 
 ## 🧑‍💻 About Me
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
+<div align="left">
         <ul style="list-style-type: none; padding: 0;">
           <li>🌱 Currently learning <strong>NLP, AI agents, React, and SQL development</strong></li>
           <li>💼 All projects at <a href="https://amandev.site"><strong>amandev.site</strong></a></li>
@@ -38,9 +35,6 @@
           <li>📫 Reach me: <strong>iqbalaman171@gmail.com</strong></li>
           <li>⚡ Fun fact: <a href="https://amandev.site/resume.pdf"><strong>Check my resume!</strong></a></li>
         </ul>
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
@@ -76,15 +70,15 @@
         <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="50" height="50" style="margin: 8px;" />
         <br/>Next.js
       </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="50" height="50" style="margin: 8px;" />
-        <br/>Flask
-      </td>
       <td align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50" style="margin: 8px;" />
         <br/>Bootstrap
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="50" height="50" style="margin: 8px;" />
+        <br/>Flask
       </td>
       <td align="center">
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="50" height="50" style="margin: 8px;" />
@@ -98,16 +92,16 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" style="margin: 8px;" />
         <br/>CSS3
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50" style="margin: 8px;" />
         <br/>Pandas
       </td>
-      <td align="center">
+        <td align="center">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="50" height="50" style="margin: 8px;" />
         <br/>Scikit-Learn
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="50" height="50" style="margin: 8px;" />
         <br/>Seaborn
@@ -120,8 +114,6 @@
         <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="50" height="50" style="margin: 8px;" />
         <br/>Selenium
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="50" height="50" style="margin: 8px;" />
         <br/>MSSQL
@@ -133,10 +125,6 @@
       <td align="center">
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="50" height="50" style="margin: 8px;" />
         <br/>SQLite
-      </td>
-      <td align="center">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" style="margin: 8px;" />
-        <br/>Git
       </td>
     </tr>
   </table>
