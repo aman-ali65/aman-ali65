@@ -1,12 +1,15 @@
-<!-- Header with Mountain Banner & Typing Effect -->
+<!-- Header with Mountain Banner -->
 <div align="center">
   <!-- Mountain Banner -->
   <img src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=250&q=80" alt="Mountain Banner" width="100%" style="border-radius: 10px; margin-bottom: 20px;"/>
   
-  <!-- Typing Effect Name -->
-  <h1 style="font-size: 2.2rem;">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=03C0FF&center=true&vCenter=true&width=700&height=50&lines=Hey+%F0%9F%91%8B+I'm+Muhammad+Aman+Ali;AI+%26+Automation+Enthusiast;Python+%7C+React+%7C+NLP;Always+learning+new+tech!" alt="Typing Effect" />
-  </h1>
+  <!-- Static Name -->
+  <h1 style="font-size: 2.2rem;">Hey 👋 I'm Muhammad Aman Ali</h1>
+  
+  <!-- Typing Effect Subheading -->
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=03C0FF&center=true&vCenter=true&width=600&height=40&lines=AI+%26+Automation+Enthusiast;Python+%7C+React+%7C+NLP;Always+learning+new+tech!" alt="Typing Effect" />
+  </p>
 </div>
 
 ---
