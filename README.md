@@ -8,7 +8,10 @@
   
   <!-- Typing Effect Subheading -->
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=03C0FF&center=true&vCenter=true&width=600&height=40&lines=AI+%26+Automation+Enthusiast;Python+%7C+React+%7C+NLP;Always+learning+new+tech!" alt="Typing Effect" />
+    <img 
+      src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=03C0FF&center=true&vCenter=true&width=700&height=45&lines=Building+AI+Powered+Applications;Python+%7C+React+%7C+NLP+%7C+Automation;Web+Scraping+%7C+AI+Agents+%7C+Chatbots;Always+learning+new+technologies!" 
+      alt="Typing Effect" 
+    />
   </p>
 </div>
 
@@ -28,13 +31,19 @@
 ## 🧑‍💻 About Me
 
 <div align="left">
-        <ul style="list-style-type: none; padding: 0;">
-          <li>🌱 Currently learning <strong>NLP, AI agents, React, and SQL development</strong></li>
-          <li>💼 All projects at <a href="https://amandev.site"><strong>amandev.site</strong></a></li>
-          <li>💬 Ask me about <strong>Python, Web Scraping, AI Chatbots & Automation</strong></li>
-          <li>📫 Reach me: <strong>iqbalaman171@gmail.com</strong></li>
-          <li>⚡ Fun fact: <a href="https://amandev.site/resume.pdf"><strong>Check my resume!</strong></a></li>
-        </ul>
+        <ul>
+  <li>🌱 Currently learning <strong>NLP, AI Agents, React & SQL Development</strong></li>
+  
+  <li>🚀 Passionate about building <strong>AI tools, automation systems, chatbots, and scraping solutions</strong></li>
+  
+  <li>💼 Portfolio: <a href="https://amandev.site"><strong>amandev.site</strong></a></li>
+  
+  <li>💬 Ask me about <strong>Python, Web Scraping, AI Chatbots & Automation</strong></li>
+  
+  <li>📫 Reach me at: <strong>iqbalaman171@gmail.com</strong></li>
+  
+  <li>📄 <a href="https://amandev.site/resume.pdf"><strong>View My Resume</strong></a></li>
+</ul>
 </div>
 
 ---
