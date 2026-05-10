@@ -205,14 +205,9 @@
     </tr>
   </table>
 </div>
-
-
 <br>
-
 ---
-
 <br>
-
 <div align="center">
   <p><em>Thanks for visiting! <b>🚀 Happy Coding!</b></em></p>
   <img src="https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif" width="300px" height="200px" alt="footer divider" />
