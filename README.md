@@ -1,26 +1,25 @@
-<!-- Header Banner with Animation -->
+<!-- Header with Mountain Banner & Typing Effect -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dd2476,1:ff013c,2:ff013c&customText=Muhammad%20Aman%20Ali&section=header&repeat=true&height=300&animation=fadeIn&fontSize=55&fontColor=ffffff&fontBold=true" alt="Header Banner" />
-</div>
-
-<!-- Typing Effect Name -->
-<div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=50&duration=3000&pause=1000&color=DD2476&center=true&vCenter=true&width=800&height=80&lines=Hey+%F0%9F%91%8B+I'm+Muhammad+Aman+Ali;AI+%26+Automation+Enthusiast;Python+%7C+React+%7C+NLP;Building+the+future+with+code" alt="Typing Effect" />
+  <!-- Mountain Banner -->
+  <img src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=250&q=80" alt="Mountain Banner" width="100%" style="border-radius: 10px; margin-bottom: 20px;"/>
+  
+  <!-- Typing Effect Name -->
+  <h1 style="font-size: 2.2rem;">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&duration=3000&pause=1000&color=DD2476&center=true&vCenter=true&width=700&height=60&lines=Hey+%F0%9F%91%8B+I'm+Muhammad+Aman+Ali;AI+%26+Automation+Enthusiast;Python+%7C+React+%7C+NLP" alt="Typing Effect" />
   </h1>
-  
+
   <h3>🚀 Passionate about AI, automation, and innovation</h3>
-  
+
   <!-- Animated Profile Views Counter -->
   <p>
     <img src="https://komarev.com/ghpvc/?username=aman-ali65&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
     <img src="https://img.shields.io/github/followers/aman-ali65?label=Followers&style=social" alt="followers" />
   </p>
 
-  <!-- Trophy Section with Better Theme -->
+  <!-- Trophy Section with Black Text & No Background -->
   <p>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=aman-ali65&theme=dracula&row=1&column=7&margin-w=15&no-bg=true" alt="trophy" />
+      <img src="https://github-profile-trophy.vercel.app/?username=aman-ali65&theme=flat&row=1&column=7&margin-w=15&no-bg=true" alt="trophy" />
     </a>
   </p>
 </div>
