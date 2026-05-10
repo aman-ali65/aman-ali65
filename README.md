@@ -61,10 +61,10 @@ I'm a passionate software developer with a focus on AI, automation, and web deve
 
 | Project Name | Description | Technologies | Live Link / GitHub Link |
 |--------------|-------------|--------------|-------------------------|
-| [AI Chatbot](https://github.com/aman-ali65) | Advanced NLP-based chatbot with automation features | Python, NLP, Flask | [GitHub](https://github.com/aman-ali65) |
-| [Portfolio Website](https://amandev.site) | Modern portfolio built with React and Next.js | React, Next.js, Tailwind | [Live](https://amandev.site) |
-| [Automation Scripts](https://github.com/aman-ali65) | Web scraping and data automation tools | Python, Selenium, SQL | [GitHub](https://github.com/aman-ali65) |
-| [Resume](https://amandev.site/resume.pdf) | Check out my detailed resume and experience | - | [View Resume](https://amandev.site/resume.pdf) |
+| [AI Chatbot](https://github.com/aman-ali65) | Advanced NLP-based chatbot with automation features and intelligent responses | Python, NLP, Flask, TensorFlow | [GitHub](https://github.com/aman-ali65) |
+| [Portfolio Website](https://amandev.site) | Modern responsive portfolio built with React and Next.js featuring smooth animations | React, Next.js, Tailwind CSS | [Live](https://amandev.site) |
+| [Automation Scripts](https://github.com/aman-ali65) | Web scraping and data automation tools for efficient workflow management | Python, Selenium, SQL, BeautifulSoup | [GitHub](https://github.com/aman-ali65) |
+| [Resume](https://amandev.site/resume.pdf) | Detailed resume showcasing my experience, skills, and achievements | - | [View Resume](https://amandev.site/resume.pdf) |
 
 ---
 
