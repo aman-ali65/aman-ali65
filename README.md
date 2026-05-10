@@ -133,10 +133,13 @@
 ---
 
 <h3 align="left"> 📊 GitHub Stats </h3>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aman-ali65&show_icons=true&hide_border=true&theme=algolia&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-ali65&layout=compact&hide_border=true&theme=algolia" />
-</p>
+
+![](https://github-readme-stats.shion.dev/api?username=aman-ali65&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=aman-ali65&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=aman-ali65&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=aman-ali65&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
